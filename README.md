@@ -2,10 +2,10 @@
 
 This repository is used for project management and coordination of initiatives related to the **Nouns ecosystem**. The primary purpose of this repository is to facilitate discussions, track proposals, and manage key governance and development activities for Nouns.  
 
-## Nouns Meetings Overview  
+## Nouncil Meetings Overview  
 
 ### Purpose  
-Nouns Management meetings serve as a forum for **contributors, governance participants, and developers** to discuss **technical and governance-related matters** affecting the Nouns ecosystem. These meetings cover **DAO governance, protocol development, treasury management, and community initiatives**.  
+Nouncil meetings serve as a forum for **contributors, governance participants, and developers** to discuss **technical and governance-related matters** affecting the Nouns ecosystem. These meetings cover **DAO governance, protocol development, treasury management, and community initiatives**.  
 
 Meetings are held periodically, with topics covering:  
 - **Governance**: Proposals, treasury decisions, and funding allocations.  
@@ -35,5 +35,3 @@ The meetings are facilitated by **Nouncil**. **Breakout sessions** are often cha
 ### Meeting Archives  
 Past meeting summaries and recordings are available in the **recordings/** directory of this repository or linked via community platforms.  
 
----  
-For discussions outside of meetings, the **Nouns Discourse and governance forums** serve as primary venues.
