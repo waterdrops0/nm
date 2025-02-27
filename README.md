@@ -1,6 +1,6 @@
 # Nouns Management Repository  
 
-This repository is used for project management and coordination of initiatives related to the **Nouns ecosystem**. The primary purpose of this repository is to facilitate discussions, track proposals, and manage key governance and development activities for Nouns.  
+This repository is used for project management and coordination of initiatives related to the **Nouns ecosystem**.  
 
 ## Nouncil Meetings Overview  
 
