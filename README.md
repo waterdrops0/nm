@@ -2,6 +2,8 @@
 
 This repository is used for project management and coordination of initiatives related to the **Nouns ecosystem**.  
 
+![nouncillogo](https://github.com/user-attachments/assets/fc2b65ea-bde4-4b3b-825e-d3f2052e478d)
+
 ## Nouncil Meetings Overview  
 
 ### Purpose  
