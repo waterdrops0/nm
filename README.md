@@ -9,13 +9,7 @@ This repository is used for project management and coordination of initiatives r
 ### Purpose  
 Nouncil meetings serve as a forum for **contributors, governance participants, and developers** to discuss **technical and governance-related matters** affecting the Nouns ecosystem. These meetings cover **DAO governance, protocol development, treasury management, and community initiatives**.
 
-Recordings of meetings are archived and made accessible for transparency.  
-
-### Agendas  
-Meeting agendas are tracked in the **Issues** tab of this repository. To suggest an agenda item:  
-1. Open an issue or add a comment to an existing one.  
-2. Ensure the topic is **relevant to Nouns governance, development, or ecosystem growth**.  
-3. Avoid philosophical debates that are better suited for **community discussions on Nouns Discourse or forums**.  
+Recordings of meetings are archived and made accessible for transparency.    
 
 ### Who Can Attend?  
 Participation is open to:  
