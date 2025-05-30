@@ -20,9 +20,6 @@ Participation is open to:
 
 For special discussions, **external experts** may be invited.  
 
-### Who Facilitates the Meetings?  
-The meetings are facilitated by **Nouncil**.
-
 ### Meeting Archives  
 Past meeting summaries and recordings are available in the **recordings/** directory of this repository or linked via community platforms.  
 
