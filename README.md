@@ -1,10 +1,10 @@
+![nouncillogo](https://github.com/user-attachments/assets/fc2b65ea-bde4-4b3b-825e-d3f2052e478d)
+
 # Nouns Management Repository  
 
 This repository is used for project management and coordination of initiatives related to the **Nouns ecosystem**.  
 
 ## Nouncil Meetings
-
-![nouncillogo](https://github.com/user-attachments/assets/fc2b65ea-bde4-4b3b-825e-d3f2052e478d)
 
 ### Purpose  
 Nouncil meetings serve as a forum for **contributors, governance participants, and developers** to discuss **technical and governance-related matters** affecting the Nouns ecosystem. These meetings cover **DAO governance, protocol development, treasury management, and community initiatives**.
