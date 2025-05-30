@@ -2,7 +2,7 @@
 
 # Nouncil Management Repository  
 
-This repository is used for project management and coordination of initiatives related to the **Nouncil**.  
+This repo manages and coordinates Nouncil-related projects.
 
 ## Nouncil Meetings
 
