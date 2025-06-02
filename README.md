@@ -1,6 +1,6 @@
 ![nouncillogo](https://github.com/user-attachments/assets/fc2b65ea-bde4-4b3b-825e-d3f2052e478d)
 
-# Nouncil Management Repo
+# Nouncil Management
 
 This repo manages and coordinates Nouncil-related projects.
 
