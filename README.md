@@ -2,7 +2,7 @@
 
 # Nouncil Management
 
-This repo aims to coordinate and document Nouncil-related projects.
+This repo aims to track and organize Nouncil-related projects.
 
 ## Nouncil Meetings
 
