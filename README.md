@@ -1,8 +1,8 @@
-![nouncillogo](https://github.com/user-attachments/assets/fc2b65ea-bde4-4b3b-825e-d3f2052e478d)
+![ChatGPT Image Jun 26, 2025, 07_38_21 PM](https://github.com/user-attachments/assets/db2a0202-0357-4f33-9569-c536c74fc084)
 
 # Nouncil Management
 
-This repo aims to manage and coordinate Nouncil-related projects.
+This repo aims to coordinate and document Nouncil-related projects.
 
 ## Nouncil Meetings
 
